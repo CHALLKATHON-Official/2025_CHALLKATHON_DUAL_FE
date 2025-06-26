@@ -5,6 +5,8 @@
 재활이 필요한 환자와 그들을 돌보는 보호자를 위한 **모바일 헬스케어 솔루션**입니다. 안전하고 체계적인 자가 재활 관리를 돕습니다.
 
 ## 📌 서비스 개요
+<img width="933" alt="image" src="https://github.com/user-attachments/assets/5ce9cf0c-b4ea-479d-bbce-0a5865c2c56b" />
+<img width="933" alt="image" src="https://github.com/user-attachments/assets/7d5f29fa-4efa-4583-b8dc-09fd5fcbf9aa" />
 
 ### 환자용 기능
 
