@@ -2,8 +2,11 @@
   "version": 2,
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "installCommand": "npm install",
+  "installCommand": "npm install --include=optional --no-audit --no-fund",
   "framework": "vite",
+  "env": {
+    "SKIP_ROLLUP_NATIVE": "true"
+  },
   "rewrites": [
     {
       "source": "/(.*)",
